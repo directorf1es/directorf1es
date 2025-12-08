@@ -1,7 +1,9 @@
 <p align="center"> 
-<img src="https://i.postimg.cc/tJF5BJnC/border_top.png"/>
+<img src="https://i.postimg.cc/wxm7jvyx/top_border.png"
+  width="740"
+  />
 <img src="https://i.postimg.cc/L5jTx5g9/zammiewammie.png"
-  height="700"
+  height="670"
   align="left"/>
 
 
@@ -28,4 +30,6 @@ please do note that i'm typically sat with friends and don't react to others whe
 <p align="center"><b>CREDITS</b><br>inspo: @dubiousswan . pfp: ItzAvo_ on twt<br>main illust: cofftwo on twt . divider: tadoyakis on twt</p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/NFR4dF2j/border_bottom.png"/></p>
+  <img src="https://i.postimg.cc/2jZVS6bk/bottom_border.png"
+    width="740"
+    /></p>
