@@ -11,7 +11,7 @@
         alt="art by @twow09" >
 <p align="center"> 
 <img src="https://i.postimg.cc/QMHnzTVR/spoke-3hu1x33.png"
-  height="350"
+  height="400"
   align="left"
   title="art by @3hu1x33"
   alt="art by @3hu1x33"/>
@@ -23,9 +23,4 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31i64oieobgxb6wqleuqf4ua3whq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
-  
-<br>
-<br>
-<br>
-<br>
-ac twow09 & 3hu1x33 on twt
+<p align="center"><b>CREDITS</b><br>ac. twow09 & 3hu1x33 on twt<br>inspo. xellishes on github</p>
