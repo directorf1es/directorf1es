@@ -12,3 +12,5 @@
         width=50%
         title="art by @twow09"
         alt="art by @twow09" >
+
+<p align="center"><br>ac. twow09 / inspo. xellishes on github<br><br>
