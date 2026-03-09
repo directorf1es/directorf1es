@@ -8,7 +8,7 @@
  <p align="center"
 
 <img
-        src="https://i.postimg.cc/CLpH86DZ/New-Project-2026-02-22T210008-992.png" 
+        src="https://i.postimg.cc/qvY2XgYc/doublefies-and-parrot-twow09.png" 
         width=50%
         title="art by @twow09"
         alt="art by @twow09" >
