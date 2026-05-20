@@ -5,9 +5,9 @@
 
    <p align="center"
       
-<sub>[rentry](https://rentry.co/odyssial) • [ata](https://directorfies.atabook.org/) • [prns.cc](https://pronouns.cc/@odyssial) • [tiktok](https://www.tiktok.com/@midoninin)</sub>
-<br><sub> gift me wifies or zam ponies :o ? 
-<br>or whisp if u do comms, i like ponies... </sub>
+<sub>[rentry](https://rentry.co/odyssial) • [atabook](https://directorfies.atabook.org/) • [prns.cc](https://pronouns.cc/@odyssial) • [tiktok](https://www.tiktok.com/@midoninin) • [listography](https://listography.com/odyssial)</sub>
+<br><sub> gift me wifies or zam ponies :)? </sub>
+<sub>or whisp if u do comms </sub>
 <br>
 <br>
 ———————— ⠀![spyglass](https://i.postimg.cc/YSPHzsxx/Spyglass-29-JE3-BE1-(1).png)⠀ ————————
